@@ -4,7 +4,7 @@
 Engineer
 
 ### Education
-Materials Engineering, BS
+Materials Engineering, BS<br/>
 UCLA<br/>
 
 ### Work Experience
