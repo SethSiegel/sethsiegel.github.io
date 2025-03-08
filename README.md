@@ -1,9 +1,11 @@
 # sethsiegel.github.io
 
 # Job Title
+Engineer
 
 ### Education
 Materials Engineering, BS
+UCLA
 
 ### Work Experience
 EDGE Sound Research
