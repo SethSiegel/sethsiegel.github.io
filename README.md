@@ -8,11 +8,11 @@ Materials Engineering, BS<br/>
 UCLA<br/>
 
 ### Work Experience
-EDGE Sound Research
+EDGE Sound Research<br/>
 -thing 1<br/>
 -thing 2<br/>
 
-Illumina
+Illumina<br/>
 -thing 1<br/>
 -thing 2<br/>
 
