@@ -5,7 +5,7 @@ Engineer
 
 ### Education
 Materials Engineering, BS
-UCLA
+UCLA<br/>
 
 ### Work Experience
 EDGE Sound Research
